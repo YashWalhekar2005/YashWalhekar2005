@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YashWalhekar2005
-- 👀 I’m interested in Creating the Web Applications And Ai Related Projects
+- 👀 I’m interested in Data Science Applications And Ai Related Projects
 - 🌱 I’m currently learning Aritificial Intelligence And Data Science
 - 📫 How to reach me yashwalhekar435@gmail.com
 
